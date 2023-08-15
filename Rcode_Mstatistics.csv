@@ -1,5 +1,5 @@
 Code/Data,Chapter,Section,Page,Description
-var.ql,1,1.3.1,12-Oct,quantiles for normal variance
+var.ql,1,1.3.1,12,quantiles for normal variance
 vartest,1,1.3.2,13,"Three power functions for normal variance, Figure 1.5"
 sampVAR,1,1.3.4,15-16,"Sample size for normal variance, Example 1.2"
 expTCI,3,3.1,56-57,Two power functions for exponential distribution
