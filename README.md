@@ -1,2 +1,51 @@
-# mstatistics
-Accompanying data for my book M-Statistics - www.eugened.org
+# M-Statistics
+
+| Cover | Description |
+|---|---|
+| ![Front Book Cover](https://github.com/eugenedemidenko/mstatistics/blob/main/FrontCoverScanThumb.png) | This repository contains accompanying data for my book _M-Statistics_. Please visit my website www.eugened.org for more information about the book. Below is the Table of Contents for the accompanying data provided with the book. My recommendation is to download everything using the zip option in GitHub. |
+
+| Code/Data    | Chapter | Section | Page    | Description                                                                        |
+| ------------ | ------- | ------- | ------- | ---------------------------------------------------------------------------------- |
+| var.ql       | 1       | 1.3.1   | 12      | quantiles for normal variance                                                      |
+| vartest      | 1       | 1.3.2   | 13      | Three power functions for normal variance, Figure 1.5                              |
+| sampVAR      | 1       | 1.3.4   | 15-16   | Sample size for normal variance, Example 1.2                                       |
+| expTCI       | 3       | 3.1     | 56-57   | Two power functions for exponential distribution                                   |
+| pvalVAR      | 4       | 4.1.2   | 74, 76  | Three power functions for normal variance                                          |
+| pvalVAR_comp | 4       | 4.1.2   | 74      | Four p-values for the DL test, job=1                                               |
+| pvalVAR_comp | 4       | 4.1.2   | 75      | Four p-values for the DL test, job=2                                               |
+| qual_cont    | 4       | 4.1.2   | 77      | Variance quality control, Example 4.10                                             |
+| vartestOP    | 4       | 4.2     | 81      | Area above power functions for three tests for normal variance, Figure 4.4         |
+| sd.ciex      | 5       | 5.1.1   | 92      | Two CIs for normal SD, Example 5.1                                                 |
+| sdM          | 5       | 5.1.1   | 94      | Power function for four SD tests, Figure 5.1                                       |
+| pareto       | 5       | 5.2.1   | 97-100  | CIs for Pareto rates                                                               |
+| cvLN         | 5       | 5.3     | 102     | Two power functions for the lognormal CV                                           |
+| smallF       | 5       | 5.4     | 105-106 | Two power functions for variance comparison, Figure 5.6                            |
+| exp2         | 5       | 5.5.1   | 109-112 | Optimal quantiles for two-sample exponential distribution, Example 5.5, Figure 5.8 |
+| sES          | 5       | 5.6     | 118     | Effect size, Example 5.6                                                           |
+| testES       | 5       | 5.6     | 120     | P-value for ES, Example 5.7                                                        |
+| ciCV_comp    | 5       | 5.6.2   | 122-123 | Six CIs for CV, Figure 5.15                                                        |
+| ncv          | 5       | 5.6.3   | 126     | Figure 5.17                                                                        |
+| pbinCI       | 5       | 5.7.4   | 134     | Five tests for binomial probability, Example 5.10                                  |
+| binTEST      | 5       | 5.7.5   | 136-137 | Example 5.11, Figure 5.20, 5.21                                                    |
+| posTest      | 5       | 5.8.2   | 141-142 | Testing Poisson rate, Figure 5.23, Example 5.13                                    |
+| ocimeta      | 5       | 5.9.1   | 146-149 | CIs for the meta-analysis model, contains ups2 and LOGci                           |
+| moder_MC     | 5       | 5.10.1  | 152     | Figure 5.27                                                                        |
+| moder_MO     | 5       | 5.10.1  | 152     | Figure 5.28                                                                        |
+| test_r       | 5       | 5.10.3  | 154-155 | Power function for r                                                               |
+| test_rpow    | 5       | 5.10.3  | 155     | Three power functions for r                                                        |
+| conf_r       | 5       | 5.10.4  | 157-159 | Cis for r                                                                          |
+| moder        | 5       | 5.10.4  | 158     | Four CIs for r                                                                     |
+| unbtestr2    | 5       | 5.11.1  | 162-163 | Power functions for r2, Figure 5.32                                                |
+| twoCIr2      | 5       | 5.11.3  | 165     | Five Cis for r2                                                                    |
+| twoCIr2_sim  | 5       | 5.11.3  | 165     | Simulations for CIs for r2                                                         |
+| moder2_6     | 5       | 5.11.4  | 166     | Two CIs for r2                                                                     |
+| moder2_3.1   | 5       | 5.11.5  | 167     | Three estimators for r2, Figure 5.35                                               |
+| linr2_test   | 5       | 5.12.2  | 171     | Three power functions for CoD                                                      |
+| linr2_5      | 5       | 5.12.3  | 172-173 | Figure 5.38                                                                        |
+| testMS       | 6       | 6.5     | 191-192 | Power function for mean and SD, Figure 6.1                                         |
+| confMS       | 6       | 6.5.2   | 192-193 | Three confidence regions for mean and SD                                           |
+| siBETA       | 6       | 6.6     | 195-199 | Joint statistical tests and CIs for beta parameters                                |
+| bpMC73       | 6       | 6.7.1   | 200-203 | Joint tests and confidence regions for the two-sample binomial probbaility         |
+| nrEXPcr      | 6       | 6.8.1   | 205     | Examples of a joint confidence region, Figure 6.8                                  |
+| exp1SIM      | 6       | 6.8.1   | 207     | Simulation-derived coverage probability, Figure 6.9                                |
+| exp2SIM      | 6       | 6.8.2   | 214     | CIs  and power functions for exponnetial regression                                |
