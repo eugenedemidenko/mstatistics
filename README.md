@@ -1,8 +1,8 @@
-# M-Statistics
+# M-Statistics: Optimal Statistical Inference for a Small Sample
 
 | Cover | Description |
 |---|---|
-| ![Front Book Cover](https://github.com/eugenedemidenko/mstatistics/blob/main/FrontCoverScanThumb.png) | This repository contains accompanying data for my book _M-Statistics_. Please visit my website www.eugened.org for more information about the book. Below is the Table of Contents for the accompanying data provided with the book. My recommendation is to download everything using the zip option in GitHub. |
+| ![Front Book Cover](https://github.com/eugenedemidenko/mstatistics/blob/main/FrontCoverScanThumb.png) | This repository contains accompanying data for my book _M-Statistics: Optimal Statistical Inference for a Small Sample_. Please visit my website www.eugened.org for more information about the book. Below is the Table of Contents for the accompanying data provided with the book. My recommendation is to download everything using the zip option in GitHub. |
 
 | Code/Data    | Chapter | Section | Page    | Description                                                                        |
 | ------------ | ------- | ------- | ------- | ---------------------------------------------------------------------------------- |
