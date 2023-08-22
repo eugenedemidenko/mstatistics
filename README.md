@@ -1,12 +1,12 @@
-# M-Statistics: Optimal Statistical Inference for a Small Sample
+# M-statistics: Optimal Statistical Inference for a Small Sample
 
 | Cover | Description |
 |---|---|
-| ![Front Book Cover](https://github.com/eugenedemidenko/mstatistics/blob/main/FrontCoverScanThumb.png) | This repository contains accompanying data for my book _M-Statistics: Optimal Statistical Inference for a Small Sample_. Please visit my website www.eugened.org for more information about the book. Below is the Table of Contents for the accompanying data provided with the book. My recommendation is to download everything using the zip option in GitHub. |
+| ![Front Book Cover](https://github.com/eugenedemidenko/mstatistics/blob/main/FrontCoverScanThumb.png) | This repository contains accompanying data for my book _M-statistics: Optimal Statistical Inference for a Small Sample_. Please visit my website www.eugened.org for more information about the book. Below is the Table of Contents for the accompanying data provided with the book. My recommendation is to download everything using the zip option in GitHub. |
 
 | Code/Data    | Chapter | Section | Page    | Description                                                                        |
 | ------------ | ------- | ------- | ------- | ---------------------------------------------------------------------------------- |
-| var.ql       | 1       | 1.3.1   | 12      | quantiles for normal variance                                                      |
+| var.ql       | 1       | 1.3.1   | 12      | Quantiles for normal variance                                                      |
 | vartest      | 1       | 1.3.2   | 13      | Three power functions for normal variance, Figure 1.5                              |
 | sampVAR      | 1       | 1.3.4   | 15-16   | Sample size for normal variance, Example 1.2                                       |
 | expTCI       | 3       | 3.1     | 56-57   | Two power functions for exponential distribution                                   |
